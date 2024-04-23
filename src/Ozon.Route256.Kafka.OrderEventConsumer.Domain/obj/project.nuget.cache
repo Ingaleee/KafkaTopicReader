@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lH3vR2SForDaXe87a6kxmj7MOKl0IQdgD3kzoL5NKFjDXAAASh5jd9KYWteaiNVePH6U+dtKReFERQYG0CP+HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Domain\\Ozon.Route256.Kafka.OrderEventConsumer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A ACER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\A ACER\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

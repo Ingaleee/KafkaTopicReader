@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9mtP62xCQnjAsZUzNqFkPJk9o+9IeNpaVV3YAx20OEc=",
+  "Source": "Ozon.Route256.Kafka.OrderEventConsumer.Presentation",
+  "BasePath": "_content/Ozon.Route256.Kafka.OrderEventConsumer.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

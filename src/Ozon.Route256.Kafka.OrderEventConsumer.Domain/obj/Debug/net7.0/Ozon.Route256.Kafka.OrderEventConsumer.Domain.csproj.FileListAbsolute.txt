@@ -1,0 +1,14 @@
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\bin\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.deps.json
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\bin\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\bin\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\bin\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.xml
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.csproj.AssemblyReference.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.AssemblyInfoInputs.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.AssemblyInfo.cs
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\refint\Ozon.Route256.Kafka.OrderEventConsumer.Domain.dll
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.xml
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\Ozon.Route256.Kafka.OrderEventConsumer.Domain.pdb
+C:\Users\FossW\OneDrive\Рабочий стол\HW3\homework-7-master\src\Ozon.Route256.Kafka.OrderEventConsumer.Domain\obj\Debug\net7.0\ref\Ozon.Route256.Kafka.OrderEventConsumer.Domain.dll

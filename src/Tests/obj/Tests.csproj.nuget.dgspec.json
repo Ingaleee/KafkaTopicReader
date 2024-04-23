@@ -1,0 +1,382 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Tests\\Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Domain\\Ozon.Route256.Kafka.OrderEventConsumer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Domain\\Ozon.Route256.Kafka.OrderEventConsumer.Domain.csproj",
+        "projectName": "Ozon.Route256.Kafka.OrderEventConsumer.Domain",
+        "projectPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Domain\\Ozon.Route256.Kafka.OrderEventConsumer.Domain.csproj",
+        "packagesPath": "C:\\Users\\A ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\A ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Confluent.Kafka": "[2.2.0, )",
+            "FluentMigrator": "[3.3.2, )",
+            "FluentMigrator.Runner": "[3.3.2, )",
+            "FluentMigrator.Runner.Postgres": "[3.3.2, )",
+            "Microsoft.AspNetCore.Mvc.Testing": "[6.0.6, )",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "[6.0.0, )",
+            "Microsoft.Extensions.Options": "[7.0.1, )",
+            "Microsoft.NET.Test.Sdk": "[16.11.0, )",
+            "Moq": "[4.20.70, )",
+            "Npgsql": "[7.0.6, )",
+            "SharpJuice.AutoFixture": "[1.2.4, )",
+            "System.Linq.Async": "[6.0.1, )",
+            "xunit": "[2.7.1, )",
+            "xunit.extensibility.core": "[2.7.1, )",
+            "xunit.runner.visualstudio": "[2.4.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure.csproj",
+        "projectName": "Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure",
+        "projectPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\A ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\A ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Domain\\Ozon.Route256.Kafka.OrderEventConsumer.Domain.csproj": {
+                "projectPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Domain\\Ozon.Route256.Kafka.OrderEventConsumer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.3.2, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentMigrator.Runner.Postgres": {
+              "target": "Package",
+              "version": "[3.3.2, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Confluent.Kafka": "[2.2.0, )",
+            "FluentMigrator": "[3.3.2, )",
+            "FluentMigrator.Runner": "[3.3.2, )",
+            "FluentMigrator.Runner.Postgres": "[3.3.2, )",
+            "Microsoft.AspNetCore.Mvc.Testing": "[6.0.6, )",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "[6.0.0, )",
+            "Microsoft.Extensions.Options": "[7.0.1, )",
+            "Microsoft.NET.Test.Sdk": "[16.11.0, )",
+            "Moq": "[4.20.70, )",
+            "Npgsql": "[7.0.6, )",
+            "SharpJuice.AutoFixture": "[1.2.4, )",
+            "System.Linq.Async": "[6.0.1, )",
+            "xunit": "[2.7.1, )",
+            "xunit.extensibility.core": "[2.7.1, )",
+            "xunit.runner.visualstudio": "[2.4.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation.csproj",
+        "projectName": "Ozon.Route256.Kafka.OrderEventConsumer.Presentation",
+        "projectPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation.csproj",
+        "packagesPath": "C:\\Users\\A ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\A ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure\\Ozon.Route256.Kafka.OrderEventConsumer.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )",
+              "versionCentrallyManaged": true
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.7.1, )",
+              "versionCentrallyManaged": true
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.7.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Confluent.Kafka": "[2.2.0, )",
+            "FluentMigrator": "[3.3.2, )",
+            "FluentMigrator.Runner": "[3.3.2, )",
+            "FluentMigrator.Runner.Postgres": "[3.3.2, )",
+            "Microsoft.AspNetCore.Mvc.Testing": "[6.0.6, )",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "[6.0.0, )",
+            "Microsoft.Extensions.Options": "[7.0.1, )",
+            "Microsoft.NET.Test.Sdk": "[16.11.0, )",
+            "Moq": "[4.20.70, )",
+            "Npgsql": "[7.0.6, )",
+            "SharpJuice.AutoFixture": "[1.2.4, )",
+            "System.Linq.Async": "[6.0.1, )",
+            "xunit": "[2.7.1, )",
+            "xunit.extensibility.core": "[2.7.1, )",
+            "xunit.runner.visualstudio": "[2.4.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Tests\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Tests\\Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\A ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\A ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation.csproj": {
+                "projectPath": "C:\\Users\\A ACER\\Desktop\\homework-7-master\\homework-7-master\\src\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation\\Ozon.Route256.Kafka.OrderEventConsumer.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.7.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Confluent.Kafka": "[2.2.0, )",
+            "FluentMigrator": "[3.3.2, )",
+            "FluentMigrator.Runner": "[3.3.2, )",
+            "FluentMigrator.Runner.Postgres": "[3.3.2, )",
+            "Microsoft.AspNetCore.Mvc.Testing": "[6.0.6, )",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "[6.0.0, )",
+            "Microsoft.Extensions.Options": "[7.0.1, )",
+            "Microsoft.NET.Test.Sdk": "[16.11.0, )",
+            "Moq": "[4.20.70, )",
+            "Npgsql": "[7.0.6, )",
+            "SharpJuice.AutoFixture": "[1.2.4, )",
+            "System.Linq.Async": "[6.0.1, )",
+            "xunit": "[2.7.1, )",
+            "xunit.extensibility.core": "[2.7.1, )",
+            "xunit.runner.visualstudio": "[2.4.3, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
